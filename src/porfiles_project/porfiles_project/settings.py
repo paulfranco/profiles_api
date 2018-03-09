@@ -25,7 +25,7 @@ SECRET_KEY = '2-igiata56#2zjik%ksc1&e#!w*@o3wo=j5268r4ik0b6_^upy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['letsfundthis-17.local']
 
 
 # Application definition
